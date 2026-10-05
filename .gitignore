@@ -1,0 +1,11 @@
+# Índice vetorial (gerado localmente)
+chroma_db/
+
+# Ambientes e configurações locais
+.venv/
+venv/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
